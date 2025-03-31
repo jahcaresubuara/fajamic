@@ -112,7 +112,7 @@ body{
 }
 
 #header{
-    background-image: url("/pulbic/h1_hero.png");
+    background-image: url("./pulbic/h1_hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: red; */
