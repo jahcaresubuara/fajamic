@@ -1,0 +1,36 @@
+#background{
+    background-image: url(../pulbic/hero2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#form{
+    width: 1200px;
+    align-items: center;
+}
+
+#dat{
+    background-image: url(../pulbic/section_bg02.png);
+}
+
+#flex{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+}
+
+#book{
+    background-image: url(../pulbic/section_bg04.png);
+}
+
+#data{
+    background-image: url(../pulbic/section_bg03.png);
+}
+
+#select1{
+    border:1px solid #f9f9f9;
+    width: 270px;
+    height: 65px;
+    padding-left: 10px;
+    padding-right: 15px;
+ }
