@@ -63,6 +63,7 @@ body{
 
 #not{
     background-image: url(./pulbic/section_bg03.png);
+    background-size: cover;
 }
 
 #about{
