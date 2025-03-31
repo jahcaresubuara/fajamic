@@ -63,7 +63,9 @@ body{
 
 #not{
     background-image: url(./pulbic/section_bg03.png);
+    background-repeat: no-repeat;
     background-size: cover;
+    justify-items: center;
 }
 
 #about{
